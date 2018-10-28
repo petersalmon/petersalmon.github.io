@@ -17,7 +17,11 @@ This project involves the analysis of colleges across all 50 states between the 
 Machine Learning Projects
 -------
 
+### Superconductor Critical Temperature Regression
 
+View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb)
+
+This project involves the prediction of the critical temperature for various compunds using a Random Forest Regression model.
 
 
 
