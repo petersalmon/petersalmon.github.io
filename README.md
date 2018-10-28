@@ -21,7 +21,7 @@ Machine Learning Projects
 
 View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb)
 
-This project involves the prediction of the critical temperature for various compunds using a Random Forest Regression model.
+This project involves the prediction of the critical temperature for various, potential, superconducting compounds using a Random Forest Regression model. The critical temperature for materials is nutoriously difficult to predict. The model created here may aid researchers in the inference of critical temperatures based on a compound's chemical structure and characteristics.
 
 
 
