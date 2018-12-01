@@ -25,5 +25,5 @@ This project involves the prediction of the critical temperature for various, po
 
 
 
-Explanatory Posts
+Projects
 -------
