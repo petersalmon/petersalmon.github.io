@@ -29,6 +29,12 @@ View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/peter
 
 This project involves the prediction of the critical temperature for various, potential, superconducting compounds using a Random Forest Regression model. The critical temperature for materials is nutoriously difficult to predict. The model created here may aid researchers in the inference of critical temperatures based on a compound's chemical structure and characteristics.
 
+### Autism Spectrum Disorder Classification
+
+View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
+
+In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.        
+
 
 
 Projects
