@@ -18,6 +18,12 @@ View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/peter
 
 This project involves the analysis of responses to the National Youth Tobacco Survey (NYTS) distributed by the Center for Disease Control (CDC). The analysis focuses on the rate of smoking amongst young adults in the United States and seeks to uncover whether or not the introduction of electronic cigarettes has really sparked a health crisis among the youth of our nation.
 
+### Analysis of Pharmaceutical Product Reviews
+
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Pharmaceutical_Reviews_NLP/Analysis%20of%20Pharmaceutical%20Product%20Reviews.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Pharmaceutical_Reviews_NLP/Analysis%20of%20Pharmaceutical%20Product%20Reviews.ipynb)
+
+This project involves the analysis of raw text data in the form of reviews, written by users of www.drugs.com. The analysis focuses on exploring various characteristics of the brand names of the medications as well as the reviews of the drugs themselves. The main goals of the analysis involve finding ways in which drug manufacturers may improve upon the production quality and marketing of the medications they produce.
+
 
 
 Machine Learning Projects
