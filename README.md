@@ -1,7 +1,7 @@
 Data Science Portfolio by Peter Salamon
 ======
 
-This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data sceintist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer; links are provided below each project title.
+This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data sceintist and machine learning engineer. Projects are divided into 4 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer; links are provided below each project title.
 
 Data Processing and Exlporation
 ------
@@ -39,9 +39,20 @@ This project involves the prediction of the critical temperature for various, po
 
 View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
 
-In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.        
+In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.      
+
+### Cancer Gene Expression Clustering
+
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Gene_Expression_Clustering/Cancerous%20Gene%20Expression%20Clustering.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Gene_Expression_Clustering/Cancerous%20Gene%20Expression%20Clustering.ipynb)
+
+In this project, a clustering analysis is performed on the gene expression data of over 20,000 genes and across five different types of cancers. In addition, a classification model is built with the goal of predicting the type of cancer present in a patient based on patterns in the expression of their genes. Advances in biology and medicine seem to stagnate as a result of overwhelming amounts of data needing to be analyzed. Machine learning can be implemented to compress this data down to smaller and more meaningful portions of information.       
 
 
 
-Projects
+Reference Material
+-------
+
+
+
+Educational Material
 -------
