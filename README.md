@@ -1,7 +1,7 @@
 Data Science Portfolio by Peter Salamon
 ======
 
-This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data sceintist and machine learning engineer. Projects are divided into 4 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer; links are provided below each project title.
+This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data sceintist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer; links are provided below each project title.
 
 Data Processing and Exlporation
 ------
@@ -49,10 +49,8 @@ In this project, a clustering analysis is performed on the gene expression data 
 
 
 
-Reference Material
+Explanatory Posts
 -------
 
 
 
-Educational Material
--------
