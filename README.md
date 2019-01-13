@@ -52,5 +52,8 @@ In this project, a clustering analysis is performed on the gene expression data 
 Explanatory Posts
 -------
 
+### Artificial Neural Networks (ANN)
 
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Artificial%20Neural%20Networks%20%28ANN%29.ipynb?flush_cache=true) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Artificial%20Neural%20Networks%20(ANN).ipynb)
 
+This project explores the inner workings of Artificial Neural Networks. A simple neural network model is built from scratch and with the Keras package as well. Finally, it is turned into a classification agent for the recognition of hand written digits using the famed MNIST dataset. 
