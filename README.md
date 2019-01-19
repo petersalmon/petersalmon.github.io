@@ -57,3 +57,9 @@ Explanatory Posts
 View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Artificial%20Neural%20Networks%20%28ANN%29.ipynb?flush_cache=true) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Artificial%20Neural%20Networks%20(ANN).ipynb)
 
 This project explores the inner workings of Artificial Neural Networks. A simple neural network model is built from scratch and with the Keras package as well. Finally, it is turned into a classification agent for the recognition of hand written digits using the famed MNIST dataset. 
+
+### Convolutional Neural Networks (CNN)
+
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Convolutional%20Neural%20Networks%20%28CNN%29.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Convolutional%20Neural%20Networks%20(CNN).ipynb)
+
+This project probes the inner workings of Convolutional Neural Networks. How CNNs are structured and how they function is first discussed followed by the creation of two simple CNNS. The first model attempts to classify images of dogs and cats while the other distinguishes between three different types of tumors using brain MRI scans.
