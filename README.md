@@ -1,7 +1,7 @@
 Data Science Portfolio by Peter Salamon
 ======
 
-This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data scientist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer; links are provided below each project title. Additional projects can also be seen at [rpubs.com/Peters64s](https://rpubs.com/Peters64s).
+This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data scientist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer if given the choice; links are provided below each project title.
 
 Data Processing and Exlporation
 ------
@@ -40,6 +40,12 @@ This project involves the prediction of the critical temperature for various, po
 View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
 
 In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.      
+
+### Start-Up Company Business Analysis
+
+View this project on [Rpubs](http://rpubs.com/Peters64s/424391)
+
+Investors often rely on intuition and past experience in order to judge whether a start-up company will be worth investing in. This project aims to put forth a rigorous analysis that can be used to identify relevant factors indicative of a successful start-up company. In addition, a machine learning model is created to predict whether or not a company is likely to succeed based on an array of company characteristics and economic measures.  
 
 ### Cancer Gene Expression Clustering
 
