@@ -35,17 +35,29 @@ View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/peter
 
 This project involves the prediction of the critical temperature for various, potential, superconducting compounds using a Random Forest Regression model. The critical temperature for materials is nutoriously difficult to predict. The model created here may aid researchers in the inference of critical temperatures based on a compound's chemical structure and characteristics.
 
-### Autism Spectrum Disorder Classification
-
-View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
-
-In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.      
-
 ### Start-Up Company Business Analysis
 
 View this project on [Rpubs](http://rpubs.com/Peters64s/424391)
 
-Investors often rely on intuition and past experience in order to judge whether a start-up company will be worth investing in. This project aims to put forth a rigorous analysis that can be used to identify relevant factors indicative of a successful start-up company. In addition, a machine learning model is created to predict whether or not a company is likely to succeed based on an array of company characteristics and economic measures.  
+Investors often rely on intuition and past experience in order to judge whether a start-up company will be worth investing in. This project aims to put forth a rigorous analysis that can be used to identify relevant factors indicative of a successful start-up company. In addition, a machine learning model is created to predict whether or not a company is likely to succeed based on an array of company characteristics and economic measures.
+
+### Bank Marketing Data Analysis & Classification Using Random Forests
+
+View this project on [Rpubs](http://rpubs.com/Peters64s/451160)
+
+Bank marketing data, collected my a Portuguese banking institution, is used to build a predictive model to determine which clients are likely to purchase a subscription to the bank using demographic information collected during marketing campaigns.
+
+### Natural Language Processing of Amazon Instant Video Data
+
+View this project on [Rpubs](http://rpubs.com/Peters64s/453779)
+
+In this analysis, Parts-of-Speech Tagging and sentiment analysis using a Logistic Regression classification model are performed on Amazon Instant Video data in an effort to determine if marketing of the Amazon Instant Video service can be further improved leading to an increase in revenue.
+
+### Autism Spectrum Disorder Classification
+
+View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
+
+In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.        
 
 ### Cancer Gene Expression Clustering
 
