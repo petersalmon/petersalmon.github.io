@@ -41,6 +41,12 @@ View this project on [Rpubs](http://rpubs.com/Peters64s/424391)
 
 Investors often rely on intuition and past experience in order to judge whether a start-up company will be worth investing in. This project aims to put forth a rigorous analysis that can be used to identify relevant factors indicative of a successful start-up company. In addition, a machine learning model is created to predict whether or not a company is likely to succeed based on an array of company characteristics and economic measures.
 
+### Autism Spectrum Disorder Classification
+
+View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
+
+In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.
+
 ### Bank Marketing Data Analysis & Classification Using Random Forests
 
 View this project on [Rpubs](http://rpubs.com/Peters64s/451160)
@@ -51,13 +57,7 @@ Bank marketing data, collected my a Portuguese banking institution, is used to b
 
 View this project on [Rpubs](http://rpubs.com/Peters64s/453779)
 
-In this analysis, Parts-of-Speech Tagging and sentiment analysis using a Logistic Regression classification model are performed on Amazon Instant Video data in an effort to determine if marketing of the Amazon Instant Video service can be further improved leading to an increase in revenue.
-
-### Autism Spectrum Disorder Classification
-
-View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Autism_Classification/Autism%20Spectrum%20Disorder%20Classification.ipynb)
-
-In this project, a predictive classification model is built with the goal of predicting whether or not a child will be diagnosed with Autism Spectrum Disorder (ASD). The process for diagnosing ASD is, currently, lengthy as well as costly. A statistical model may relieve some of the shortcomings of the current process making it more efficient and easier to implement.        
+In this analysis, Parts-of-Speech Tagging and sentiment analysis using a Logistic Regression classification model are performed on Amazon Instant Video data in an effort to determine if marketing of the Amazon Instant Video service can be further improved leading to an increase in revenue.        
 
 ### Cancer Gene Expression Clustering
 
