@@ -31,7 +31,7 @@ Machine Learning Projects
 
 ### Superconductor Critical Temperature Regression
 
-View this project on [Jupyter nbviewer](http://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression/Superconductivity%20Regression.ipynb)
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Superconductivity_Regression_Thesis/Superconductivity%20Regression.ipynb)
 
 This project involves the prediction of the critical temperature for various, potential, superconducting compounds using a Random Forest Regression model. The critical temperature for materials is nutoriously difficult to predict. The model created here may aid researchers in the inference of critical temperatures based on a compound's chemical structure and characteristics.
 
@@ -67,7 +67,7 @@ In this project, a clustering analysis is performed on the gene expression data 
 
 ### Customer Segmentation of an E-Commerce Website
 
-View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Customer_Segmentation/customer_segmentation.ipynb#section2c)
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Customer_Segmentation/customer_segmentation.ipynb)
 
 In this project, the customers of a UK-based e-commerce retailer are clustered into groups based on their shopping behaviors and a Logistic Regression model is created to classify new customers based on their purchase history using data consisting of over 500,000 user transactions over the span of 2 years.
 
