@@ -63,7 +63,24 @@ In this analysis, Parts-of-Speech Tagging and sentiment analysis using a Logisti
 
 View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Gene_Expression_Clustering/Cancerous%20Gene%20Expression%20Clustering.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Gene_Expression_Clustering/Cancerous%20Gene%20Expression%20Clustering.ipynb)
 
-In this project, a clustering analysis is performed on the gene expression data of over 20,000 genes and across five different types of cancers. In addition, a classification model is built with the goal of predicting the type of cancer present in a patient based on patterns in the expression of their genes. Advances in biology and medicine seem to stagnate as a result of overwhelming amounts of data needing to be analyzed. Machine learning can be implemented to compress this data down to smaller and more meaningful portions of information.       
+In this project, a clustering analysis is performed on the gene expression data of over 20,000 genes and across five different types of cancers. In addition, a classification model is built with the goal of predicting the type of cancer present in a patient based on patterns in the expression of their genes. Advances in biology and medicine seem to stagnate as a result of overwhelming amounts of data needing to be analyzed. Machine learning can be implemented to compress this data down to smaller and more meaningful portions of information. 
+
+### Customer Segmentation of an E-Commerce Website
+
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Customer_Segmentation/customer_segmentation.ipynb#section2c)
+
+In this project, the customers of a UK-based e-commerce retailer are clustered into groups based on their shopping behaviors and a Logistic Regression model is created to classify new customers based on their purchase history using data consisting of over 500,000 user transactions over the span of 2 years.
+
+
+
+Time Series Analysis
+-------
+
+### Forecasting Wikipedia Web Traffic
+
+View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Wikipedia_Traffic_Forecasting/Wikipedia%20Traffic%20Forecasting.ipynb)
+
+In this project, an ARIMA model and Facebook's Prophet model are used to forecast the future views of some of their most popular web pages with 95% accuracy. 
 
 
 
