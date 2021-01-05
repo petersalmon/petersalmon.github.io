@@ -3,7 +3,7 @@ Data Science Portfolio by Peter Salamon
 
 This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data scientist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer if given the choice; links are provided below each project title.
 
-Data Processing and Exlporation
+Data Processing and Exploration
 ------
 
 ### College Scorecard Analysis
@@ -82,6 +82,11 @@ View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/pete
 
 In this project, an ARIMA model and Facebook's Prophet model are used to forecast the future views of some of their most popular web pages with 95% accuracy. 
 
+### The Technological Hype Cycle: Is it All Hype?
+
+View this project on [my blog](https://petersalmon.github.io/blog/Hype-Cycle-Analysis/) or [Jupyter nbviewer](http://localhost:8888/notebooks/Desktop/Projects/Portfolio/Hype_Cycle_Analysis/hype_cycle_analysis.ipynb#)
+
+Utilized time series analytics and predictive modeling to forecast the future trajectory of several emerging tech trends, with 95% accuracy, utilizing an ARIMA model and over 10 years of Google Trends’ time series data. 
 
 
 Explanatory Posts
