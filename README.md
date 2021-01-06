@@ -1,7 +1,7 @@
 Data Science Portfolio by Peter Salamon
 ======
 
-This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data scientist and machine learning engineer. Projects are divided into 3 broad categories below. It is recommended that guests view the projects in Jupyter nbviewer if given the choice; links are provided below each project title.
+This portfolio is a collection of data analysis and machine learning projects I have created in an effort to hone my skills as a data scientist and machine learning engineer. Projects are divided into several broad categories below. It is recommended that guests view the projects in Jupyter nbviewer if given the choice; links are provided below each project title.
 
 Data Processing and Exploration
 ------
