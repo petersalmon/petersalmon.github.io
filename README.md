@@ -105,8 +105,8 @@ View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/pete
 This project probes the inner workings of Convolutional Neural Networks. How CNNs are structured and how they function is first discussed followed by the creation of two simple CNNS. The first model attempts to classify images of dogs and cats while the other distinguishes between three different types of tumors using brain MRI scans.
 
 
-### Recurrent Neural Networks (RNN)
+### Predicting Google Stock Prices With Recurrent Neural Networks (RNN)
 
 View this project on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Recurrent%20Neural%20Networks%20%28RNN%29.ipynb) or [GitHub](https://github.com/petersalmon/petersalmon.github.io/blob/master/Neural_Networks/Recurrent%20Neural%20Networks%20(RNN).ipynb)
 
-This post uncovers the secrets of the Recurrent Neural Network. The structure and functions of the model are initially discussed folowed by a working example of an RNN in action. The goal of the RNN that is built is to predict the 'future' open prices of Google's stock, for January of 2017, using the daily open price, close price, high, low, and volume of the stock between the years of 2012 and 2017.
+This post uncovers the secrets of the Recurrent Neural Network. The structure and functions of the model are initially discussed folowed by a working example of an RNN in action. The goal of the RNN that is built is to predict the future open prices of Google's stock, for January of 2017, using the daily open price, close price, high, low, and volume of the stock between the years of 2012 and 2017.
