@@ -89,7 +89,7 @@ View this project on [my blog](https://petersalmon.github.io/blog/Hype-Cycle-Ana
 Utilized time series analytics and predictive modeling to forecast the future trajectory of several emerging tech trends, with 95% accuracy, utilizing an ARIMA model and over 10 years of Google Trends’ time series data. 
 
 
-Explanatory Posts
+Deep Learning
 -------
 
 ### Artificial Neural Networks (ANN)
