@@ -51,7 +51,7 @@ In this project, a predictive classification model is built with the goal of pre
 
 View this project on [Rpubs](http://rpubs.com/Peters64s/451160)
 
-Bank marketing data, collected my a Portuguese banking institution, is used to build a predictive model to determine which clients are likely to purchase a subscription to the bank using demographic information collected during marketing campaigns.
+Built a random forest model to predict likely customers from bank marketing data with 87% accuracy using over 30,000 rows of data collected by a Portuguese banking institution.
 
 ### Natural Language Processing of Amazon Instant Video Data
 
