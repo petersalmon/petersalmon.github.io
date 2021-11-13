@@ -1,4 +1,4 @@
-![collage image](https://github.com/petersalmon/petersalmon.github.io/blob/master/img/data_3.png)
+<img src="https://live.staticflickr.com/65535/51675734152_f22f399e08_h.jpg" width="100%">
 
 Data Science Portfolio by Peter Salamon
 ======
