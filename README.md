@@ -1,4 +1,4 @@
-![graph collage](https://live.staticflickr.com/65535/51675734152_f22f399e08_h.jpg)
+<img src="https://live.staticflickr.com/65535/51675734152_f22f399e08_h.jpg">
 
 Data Science Portfolio by Peter Salamon
 ======
