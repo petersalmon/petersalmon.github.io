@@ -1,3 +1,5 @@
+<img src="https://github.com/petersalmon/petersalmon.github.io/blob/master/img/data_3.png" alt="collage of graphs" width="100%"/>
+
 Data Science Portfolio by Peter Salamon
 ======
 
